@@ -1,5 +1,6 @@
 google.com, pub-5532530116912435, DIRECT, f08c47fec0942fa0
 applovin.com, 4c50a72d5eb1567f05f97e24e19801cf, DIRECT
+Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 inmobi.com, d67802b1b16d4d8993df5b01e0c8227f, DIRECT, 83e75a7ae333ca9d
 outbrain.com, 00bba279fec6daa01a0cb6fdccb023f0d5, RESELLER
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
