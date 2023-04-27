@@ -1,4 +1,5 @@
 google.com, pub-5532530116912435, DIRECT, f08c47fec0942fa0
+google.com, pub-6620389993905994, RESELLER
 applovin.com, 4c50a72d5eb1567f05f97e24e19801cf, DIRECT
 Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 inmobi.com, d67802b1b16d4d8993df5b01e0c8227f, DIRECT, 83e75a7ae333ca9d
